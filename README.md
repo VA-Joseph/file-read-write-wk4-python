@@ -33,13 +33,13 @@ cd file-read-write-program-wk4-python
 python file_read_write.py
 
 
-**Files Included**
+## Files Included
 - file_read_write.py – Main script for reading, modifying, and writing file content
 - input_file.txt – Sample input file with text to be modified
 - output_file.txt – New file created with modified content
 - README.md – Project documentation
 
-**Expected Output**
+## Expected Output
 
 After running the script:
 - The content of input_file.txt will be read
