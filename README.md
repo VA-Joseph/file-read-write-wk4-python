@@ -46,3 +46,11 @@ After running the script:
 - It will be modified (e.g., converted to uppercase)
 - The modified content will be saved in output_file.txt
 - If the specified file is missing or inaccessible, a user-friendly error message will be displayed
+
+## Possible Errors and How to Fix Them
+
+- **FileNotFoundError**: Happens if the input file name is wrong or doesn’t exist. Make sure `input_file.txt` is present in the same folder or enter a correct file name.
+- **PermissionError**: You may not have permission to access or write to the file. Try running your script in a folder where you have full access.
+- **Other Exceptions**: If something else goes wrong, the program will show a message with the specific error.
+
+Always double-check the file name you enter and make sure it’s in the same directory as the script.
